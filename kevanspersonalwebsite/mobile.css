@@ -13,9 +13,12 @@ body {
 /*top banner*/
 
 header h1 {
-font-size: 1.5em;  
+font-size: 40px;  
 padding-bottom: 50px;
-text-align:center;
+padding-left: 0px;
+padding-right: 0px;
+text-align: center;
+width: 100%;
 
 }
 
@@ -87,14 +90,12 @@ nav a:hover {
 
 #header-logo {
 	float: right;
-	width:90%;
+	width:100%;
 	text-align: left;
 	
 }
 
-header h1 {
-	font-size: 50px;	
-}
+
 
 .tagline{
 	font-size: 8px;
